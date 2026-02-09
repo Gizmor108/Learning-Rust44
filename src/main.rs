@@ -8,5 +8,5 @@ fn main() {
 
     // First part of the problem: look up key 2
     // Second part of the problem: look up key 3 (doesn't exist)
-    println!("{:?}", hm.get(&4));
+    println!("{:?}", hm.get(&3));
 }
